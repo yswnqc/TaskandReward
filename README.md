@@ -6,7 +6,7 @@
 
 欢迎👏大家来试用啊！
 
-![miniprogram_code.jpg]
+![miniprogram code](miniprogram_code.jpg)
 
 
 ## 核心功能
